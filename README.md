@@ -1,0 +1,14 @@
+# IBM-Project-1379-1658386313
+# VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
+
+- TECHNOLOGY : ARTIFICIAL INTELLIGENCE
+
+# TEAM LEADER
+- KAVINI P
+
+# TEAM MEMBERS
+- PRARTHANA R
+- MEENAKSHI AKILA P S
+- NIVETHA V
+
+
